@@ -1,8 +1,3 @@
-# Personaliza-o-do-Prompt-do-CMD
-Este guia mostra como personalizar o prompt do CMD no Windows, usando UTF-8, símbolos especiais e cores ANSI
-# custom_cmd
-Personalização do Prompt do CMD 
-
 # Personalização do Prompt do CMD com UTF-8 e Cores
 
 Este guia mostra como personalizar o prompt do CMD no Windows, usando **UTF-8**, **símbolos especiais** e **cores ANSI**.
